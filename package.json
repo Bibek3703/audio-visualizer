@@ -9,16 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-progress": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.2",
+    "@react-three/drei": "^10.0.5",
+    "@react-three/fiber": "^9.1.0",
+    "@types/three": "^0.175.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^12.6.2",
+    "glslify-loader": "^2.0.0",
     "lucide-react": "^0.485.0",
     "motion": "^12.6.2",
     "next": "15.2.4",
+    "raw-loader": "^4.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^3.0.2",
+    "three": "^0.173.0",
     "tw-animate-css": "^1.2.5"
   },
   "devDependencies": {
